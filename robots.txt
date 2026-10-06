@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /platba.html
+
+Sitemap: https://dotace.dokuwell.com/sitemap.xml
