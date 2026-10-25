@@ -1,0 +1,164 @@
+{
+ "смок": "dotace",
+ "кампания": "24346142846",
+ "снято": "19.10.2026, Google Ads API, «Смоки» (только чтение)",
+ "фразы": [
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "administrace dotací",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "dotační management",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "dotační poradenství",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "udržitelnost projektu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "op tak dotace",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "odvod za porušení rozpočtové kázně",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "administrace eu projektu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "žádost o platbu dotace",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "kontrola dotace",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "publicita projektu eu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "vratka dotace",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "zadávání zakázek z dotací",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "zpráva o udržitelnosti projektu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "zpráva o realizaci projektu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "výběrové řízení dotace",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "žádost o platbu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Administrace projektu EU",
+   "фраза": "software pro správu dotací",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  }
+ ],
+ "минус_слова_группы": [],
+ "минус_слова_кампании": [
+  {
+   "фраза": "pdf",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "kurz",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "práce",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "zdarma",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "školení",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "nabídka práce",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "vzor",
+   "соответствие": "BROAD"
+  }
+ ],
+ "объявления": [
+  {
+   "группа": "Administrace projektu EU",
+   "состояние": "ENABLED",
+   "ссылки": [
+    "https://dotace.dokuwell.com/?utm_source=google&utm_medium=cpc&utm_campaign=dotace"
+   ],
+   "заголовки": [
+    "Administrace projektu EU",
+    "Žádost o platbu bez chyb",
+    "Udržitelnost projektu hlídaná",
+    "Výběrová řízení z dotací",
+    "Pro příjemce dotací EU",
+    "Zprávy a termíny v pořádku",
+    "Předejděte vratce dotace",
+    "Kontrola dotace bez obav"
+   ],
+   "описания": [
+    "Žádosti o platbu, zprávy o realizaci a udržitelnosti – vše přehledně na jednom místě.",
+    "Pro firmy s dotací z EU: termíny, dokumenty a výběrová řízení bez chaosu.",
+    "Zjistěte, co potřebujete k administraci svého projektu EU."
+   ]
+  }
+ ]
+}
